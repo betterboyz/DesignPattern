@@ -1,6 +1,4 @@
-package com.dsz.a_Creational.a_Factory.impl;
-
-import com.dsz.a_Creational.a_Factory.Shape;
+package com.dsz.a_Creational.b_AbstractFactory.shape;
 
 /**
  * @author dsz

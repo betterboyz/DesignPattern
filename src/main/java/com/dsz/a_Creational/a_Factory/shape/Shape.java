@@ -1,4 +1,4 @@
-package com.dsz.a_Creational.a_Factory;
+package com.dsz.a_Creational.a_Factory.shape;
 
 /**
  * 形状接口

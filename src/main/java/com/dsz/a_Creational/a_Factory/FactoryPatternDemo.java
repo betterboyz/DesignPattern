@@ -1,5 +1,7 @@
 package com.dsz.a_Creational.a_Factory;
 
+import com.dsz.a_Creational.a_Factory.shape.Shape;
+
 /**
  * 使用该工厂，通过传递类型信息来获取实体类的对象
  *
