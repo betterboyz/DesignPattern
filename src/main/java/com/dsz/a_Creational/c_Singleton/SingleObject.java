@@ -17,6 +17,7 @@ public class SingleObject {
 
   //获取唯一可用的对象
   public static SingleObject getInstance() {
+    System.out.println(instance.hashCode());
     return instance;
   }
 

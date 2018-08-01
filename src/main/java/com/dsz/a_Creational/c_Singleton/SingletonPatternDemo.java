@@ -16,5 +16,9 @@ public class SingletonPatternDemo {
 
     //显示消息
     object.showMessage();
+
+    SingleObject object1 = SingleObject.getInstance();
+
+
   }
 }
