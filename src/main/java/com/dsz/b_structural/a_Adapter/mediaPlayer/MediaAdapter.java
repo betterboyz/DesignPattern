@@ -1,8 +1,8 @@
-package com.dsz.b_structural.a_Adapter.MediaPlayer;
+package com.dsz.b_structural.a_Adapter.mediaPlayer;
 
-import com.dsz.b_structural.a_Adapter.AdvancedMediaPlayer.AdvancedMediaPlayer;
-import com.dsz.b_structural.a_Adapter.AdvancedMediaPlayer.Mp4Player;
-import com.dsz.b_structural.a_Adapter.AdvancedMediaPlayer.VlcPlayer;
+import com.dsz.b_structural.a_Adapter.advancedMediaPlayer.AdvancedMediaPlayer;
+import com.dsz.b_structural.a_Adapter.advancedMediaPlayer.Mp4Player;
+import com.dsz.b_structural.a_Adapter.advancedMediaPlayer.VlcPlayer;
 
 /**
  * 创建实现了 MediaPlayer 接口的适配器类

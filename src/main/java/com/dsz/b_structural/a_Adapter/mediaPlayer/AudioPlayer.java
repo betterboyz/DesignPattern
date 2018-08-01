@@ -1,6 +1,4 @@
-package com.dsz.b_structural.a_Adapter.MediaPlayer;
-
-import java.net.SocketTimeoutException;
+package com.dsz.b_structural.a_Adapter.mediaPlayer;
 
 /**
  * @author dsz

@@ -1,6 +1,6 @@
 package com.dsz.b_structural.a_Adapter;
 
-import com.dsz.b_structural.a_Adapter.MediaPlayer.AudioPlayer;
+import com.dsz.b_structural.a_Adapter.mediaPlayer.AudioPlayer;
 
 
 /**

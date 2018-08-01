@@ -1,4 +1,4 @@
-package com.dsz.b_structural.a_Adapter.AdvancedMediaPlayer;
+package com.dsz.b_structural.a_Adapter.advancedMediaPlayer;
 
 /**
  * 为更高级的媒体播放器创建接口

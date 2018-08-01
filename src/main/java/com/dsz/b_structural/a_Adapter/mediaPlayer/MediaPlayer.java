@@ -1,4 +1,4 @@
-package com.dsz.b_structural.a_Adapter.MediaPlayer;
+package com.dsz.b_structural.a_Adapter.mediaPlayer;
 
 /**
  * 为媒体播放器创建接口
